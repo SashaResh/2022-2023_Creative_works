@@ -1,0 +1,10 @@
+debug/creatingwindow.o
+debug/deletewindow.o
+debug/infowindow.o
+debug/main.o
+debug/mainwindow.o
+debug/plants.o
+debug/moc_creatingwindow.o
+debug/moc_deletewindow.o
+debug/moc_infowindow.o
+debug/moc_mainwindow.o

@@ -1,0 +1,10 @@
+release/creatingwindow.o
+release/deletewindow.o
+release/infowindow.o
+release/main.o
+release/mainwindow.o
+release/plants.o
+release/moc_creatingwindow.o
+release/moc_deletewindow.o
+release/moc_infowindow.o
+release/moc_mainwindow.o
